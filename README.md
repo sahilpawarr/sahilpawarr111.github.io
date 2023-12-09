@@ -1,5 +1,5 @@
-# sahilpawarr.github.io
- About me - Krishna Pillutla { "@context" : "http://schema.org", "@type" : "Person", "name" : "Krishna Pillutla", "url" : "https://krishnap25.github.io", "sameAs" : null }   document.documentElement.className = document.documentElement.className.replace(/\\bno-js\\b/g, '') + ' js ';   MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); MathJax.Hub.Config({ tex2jax: { inlineMath: \[ \['$','$'\], \["\\\\(","\\\\)"\] \], processEscapes: true } });
+#About me
+  Krishna Pillutla { "@context" : "http://schema.org", "@type" : "Person", "name" : "Krishna Pillutla", "url" : "https://krishnap25.github.io", "sameAs" : null }   document.documentElement.className = document.documentElement.className.replace(/\\bno-js\\b/g, '') + ' js ';   MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); MathJax.Hub.Config({ tex2jax: { inlineMath: \[ \['$','$'\], \["\\\\(","\\\\)"\] \], processEscapes: true } });
 
 *   [Krishna Pillutla](https://krishnap25.github.io/)
 *   [Publications](https://krishnap25.github.io/publications)

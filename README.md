@@ -10,7 +10,7 @@ While at Gokhale, I interned for the [Standord Doerr School of Sustainability]([
 
 Additionly, I interned at [Evolve](evolveinc.io) for their Growth and Analytics team and as a UX researcher at [Moonraft Innovation Labs](moonraft.com) where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.   
  
-If you wish to collaborate or discuss ideas, please email me at [1sahilpawar@gmail.com](mail to:1sahilpawar@gmail.com). I'm always up for a chat. 
+If you wish to collaborate or discuss ideas, please email me at 1sahilpawar@gmail.com. I'm always up for a chat. 
 
 
 ## Select Writings

@@ -12,11 +12,9 @@ I am a generalist at heart and possess an inherent curiosity to dive into practi
 
 ## Select Writings
 - [Shoot Your Shot: Player Recruitment Strategy based on Expected Goals(xG) Modelling](https://bit.ly/undergrad-thesis) (undergraduate thesis)
-- [On systems thinking]([url](https://open.substack.com/pub/sahilpawar/p/on-systems-thinking?r=i0qgj&utm_campaign=post&utm_medium=web))
-- [Illusion of limitations: The potential possibility curve
-]([url](https://open.substack.com/pub/sahilpawar/p/illusion-of-limitations-the-potential?r=i0qgj&utm_campaign=post&utm_medium=web))
-[- Inverse correlation of speed of time and technology
-]([url](https://open.substack.com/pub/sahilpawar/p/inverse-correlation-between-speed?r=i0qgj&utm_campaign=post&utm_medium=web))
-[- The fallacy of hard work
-]([url](https://open.substack.com/pub/sahilpawar/p/the-fallacy-of-hard-work?r=i0qgj&utm_campaign=post&utm_medium=web))
-- [Scale: Mental Model for better decision making]([url](https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)
+- [India's petrol prices - An unsolved conundrum]([url](https://sahilpawar.substack.com/p/indias-petrol-prices-the-unsolved)) 
+- [On systems thinking]([url](https://sahilpawar.substack.com/p/on-systems-thinking))
+- [Illusion of limitations: The potential possibility curve]([url](https://sahilpawar.substack.com/p/illusion-of-limitations-the-potential))
+- [Inverse correlation of speed of time and technology]([url](https://sahilpawar.substack.com/p/inverse-correlation-between-speed))
+- [The fallacy of hard work]([url](https://sahilpawar.substack.com/p/the-fallacy-of-hard-work))
+- [Scale: Mental Model for better decision making]([url](https://sahilpawar.substack.com/p/scale-a-mental-model-for-better-decision-making)

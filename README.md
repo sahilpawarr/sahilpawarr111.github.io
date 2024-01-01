@@ -17,4 +17,5 @@ I am a generalist at heart and possess an inherent curiosity to dive into practi
 - [Illusion of limitations: The potential possibility curve]([url](https://sahilpawar.substack.com/p/illusion-of-limitations-the-potential))
 - [Inverse correlation of speed of time and technology]([url](https://sahilpawar.substack.com/p/inverse-correlation-between-speed))
 - [The fallacy of hard work]([url](https://sahilpawar.substack.com/p/the-fallacy-of-hard-work))
-- [Scale: Mental Model for better decision making]([url](https://sahilpawar.substack.com/p/scale-a-mental-model-for-better-decision-making)
+- [Strong Links and Weak Links]([url](https://sahilpawar.substack.com/p/messi-lebron-warren-buffet-and-effective-philanthropy)https://sahilpawar.substack.com/p/messi-lebron-warren-buffet-and-effective-philanthropy)
+- [Scale: Mental Model for better decision making]([url](https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)

@@ -4,11 +4,12 @@ I recently graduated with honors in economics from the [Gokhale Institute of Pol
 
 I am passionate about economic development, fiscal policy and venture capital. 
 
+I am a generalist at heart and possess an inherent curiosity to dive into practically everything around me that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire.
+
 While at Gokhale, I interned for the [Standord Doerr School of Sustainability]([url](https://sustainability.stanford.edu/)) for the [FUSE](fuse.stanford.edu) project where I did field research and data analysis on the FWE consumption during Covid-19 and was a project intern at the [Policy Research Organisation](policyresearch.in) where I worked with historical data of Pune Municipal Corporation's annual budgets, to offer informed policy recommendations to local policymakers. 
 
 Additionly, I believe in growth through innovation and entrepreneurship, and to get my hands dirty in understanding these fields I interned at [Evolve](evolveinc.io) for their Growth and Analytics team and as a UX researcher at [Moonraft Innovation Labs](moonraft.com) where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.   
  
-I am a generalist at heart and possess an inherent curiosity to dive into practically everything around me that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire.
 
 ## Select Writings
 - [Shoot Your Shot: Player Recruitment Strategy based on Expected Goals(xG) Modelling](https://bit.ly/undergrad-thesis) (undergraduate thesis)

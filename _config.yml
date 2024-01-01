@@ -4,3 +4,40 @@ logo: banner.jpeg
 # description: FO @CambridgeWealth. BSc Economics from Gokhale Institute 
 show_downloads: false
 theme: jekyll-theme-minimal
+# Site Author
+author:
+  name             : "Sahil Pawar"
+  avatar           : "profile.png"
+  bio              : "Founder's Office @Cambridge Wealth. Economics Graduate"
+  location         : "Pune"
+  employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "mailto:1sahilpawar@gmail.com"
+  #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #uri              :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  github           : "github.com/sahilpawarr"
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  #lastfm           :
+  linkedin         : "www.linkedin.com/in/1sahilpawar"
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #steam            :
+  #tumblr           :
+  twitter          : "www.x.com/1sahilpawar"
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          :
+  #wikipedia        :

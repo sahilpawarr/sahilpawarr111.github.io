@@ -9,3 +9,14 @@ While at Gokhale, I interned for the [Standord Doerr School of Sustainability]([
 Additionly, I believe in growth through innovation and entrepreneurship, and to get my hands dirty in understanding these fields I interned at [Evolve](evolveinc.io) for their Growth and Analytics team and as a UX researcher at [Moonraft Innovation Labs](moonraft.com) where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.   
  
 I am a generalist at heart and possess an inherent curiosity to dive into practically everything around me that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire.
+
+## Select Writings
+- [Shoot Your Shot: Player Recruitment Strategy based on Expected Goals(xG) Modelling](https://bit.ly/undergrad-thesis) (undergraduate thesis)
+- [On systems thinking]([url](https://open.substack.com/pub/sahilpawar/p/on-systems-thinking?r=i0qgj&utm_campaign=post&utm_medium=web))
+- [Illusion of limitations: The potential possibility curve
+]([url](https://open.substack.com/pub/sahilpawar/p/illusion-of-limitations-the-potential?r=i0qgj&utm_campaign=post&utm_medium=web))
+[- Inverse correlation of speed of time and technology
+]([url](https://open.substack.com/pub/sahilpawar/p/inverse-correlation-between-speed?r=i0qgj&utm_campaign=post&utm_medium=web))
+[- The fallacy of hard work
+]([url](https://open.substack.com/pub/sahilpawar/p/the-fallacy-of-hard-work?r=i0qgj&utm_campaign=post&utm_medium=web))
+- [Scale: Mental Model for better decision making]([url](https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)https://open.substack.com/pub/sahilpawar/p/scale-a-mental-model-for-better-decision-making?r=i0qgj&utm_campaign=post&utm_medium=web)

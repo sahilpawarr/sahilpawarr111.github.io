@@ -1,6 +1,6 @@
 ## Hi, I’m Sahil!
 
-I recently graduated with honors in economics from the [Gokhale Institute of Politics and Economics](https://gipe.ac.in/). Currently, i’m working as a Founder’s Office Associate at [Cambridge Wealth](https://www.cambridgewealth.in/), a fintech startup in the wealth management space, where my role involves working directly with the CEO on business strategy, investment research modelling, system design and research.   
+I recently graduated with honors in economics from the [Gokhale Institute of Politics and Economics](https://gipe.ac.in/). Currently, i’m working as a Founder’s Office Associate at [Cambridge Wealth](https://www.cambridgewealth.in/), a fintech startup in the wealth management space, where I work directly with the CEO on business strategy, system design and investment research modelling.
 
 I am passionate about economic development, fiscal policy and venture capital. 
 
@@ -10,7 +10,8 @@ While at Gokhale, I interned for the [Standord Doerr School of Sustainability]([
 
 Additionly, I interned at [Evolve](evolveinc.io) for their Growth and Analytics team and as a UX researcher at [Moonraft Innovation Labs](moonraft.com) where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.   
  
-I’m always up for a chat, feel free to ping me anytime if you wish to collaborate or discuss anything :)
+If you wish to collaborate or discuss ideas, please email me at 1sahilpawar@gmail.com. I'm always up for a chat. 
+
 
 ## Select Writings
 - [Shoot Your Shot: Player Recruitment Strategy based on Expected Goals(xG) Modelling](https://bit.ly/undergrad-thesis) (undergraduate thesis)

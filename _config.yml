@@ -7,6 +7,22 @@ is_project_page: false
 theme: jekyll-theme-minimal
 email            : "mailto:1sahilpawar@gmail.com"
 
+
+
+---
+---
+@import "{{ site.theme }}";
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
+  }
+}
 # Site Author
 author:
   name             : "Sahil Pawar"

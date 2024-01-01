@@ -4,6 +4,8 @@ logo: banner.jpeg
 # description: FO @CambridgeWealth. BSc Economics from Gokhale Institute 
 show_downloads: false
 theme: jekyll-theme-minimal
+email            : "mailto:1sahilpawar@gmail.com"
+
 # Site Author
 author:
   name             : "Sahil Pawar"
@@ -13,7 +15,6 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mailto:1sahilpawar@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :

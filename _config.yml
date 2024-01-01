@@ -3,6 +3,7 @@ title: Sahil Pawar
 logo: banner.jpeg
 # description: FO @CambridgeWealth. BSc Economics from Gokhale Institute 
 show_downloads: false
+is_project_page: false
 theme: jekyll-theme-minimal
 email            : "mailto:1sahilpawar@gmail.com"
 

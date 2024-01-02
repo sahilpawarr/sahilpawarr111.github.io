@@ -4,7 +4,7 @@ I recently graduated with honors in economics from the [Gokhale Institute of Pol
 
 Currently, i’m working as a Founder’s Office Associate at [Cambridge Wealth](https://www.cambridgewealth.in/), a fintech startup in the wealth management space, where I work directly with the CEO on business strategy, system design and investment research modelling.
 
-While at Gokhale, I interned for the [Standord Doerr School of Sustainability]([url](https://sustainability.stanford.edu/)) for the [FUSE](fuse.stanford.edu) project where I did field research and data analysis on the FWE consumption during Covid-19 and was a project intern at the [Policy Research Organisation](policyresearch.in) where I worked with historical data of Pune Municipal Corporation's annual budgets, to offer informed policy recommendations to local policymakers. 
+While at university, I interned for the [Standord Doerr School of Sustainability]([url](https://sustainability.stanford.edu/)) for the [FUSE](fuse.stanford.edu) project where I did field research and data analysis on the FWE consumption during Covid-19 and was a project intern at the [Policy Research Organisation](policyresearch.in) where I worked with historical data of Pune Municipal Corporation's annual budgets, to offer informed policy recommendations to local policymakers. 
 
 Additionly, I interned at [Evolve](evolveinc.io) for their Growth and Analytics team and as a UX researcher at [Moonraft Innovation Labs](moonraft.com) where I worked on the strategy to execute a virtual reality metaverse project for a global tech event.  
 

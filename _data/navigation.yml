@@ -1,0 +1,10 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Notes"
+    url: /notes/
+  - title: "Substack"
+    url: /substack/
+  - title: "Contact"
+    url: /mailto:1sahilpawar@gmail.com/
+

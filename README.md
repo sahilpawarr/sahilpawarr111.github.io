@@ -8,7 +8,7 @@ While at university, I interned for the **[Standord Doerr School of Sustainabili
 
 I am a generalist at heart and possess an inherent curiosity to dive into practically everything around me that I wish to find answers to. I’ve always said my perfect career would be whatever pays me to just learn everything all the time for no specific reason. like a scholar for hire. 
  
-If you wish to collaborate or discuss ideas, please email me at 1sahilpawar@gmail.com. I'm always up for a chat. 
+If you wish to collaborate or discuss ideas, please email me at [1sahilpawar@gmail.com](mailto:1sahilpawar@gmail.com). I'm always up for a chat. 
 
 
 ## Select Writings

@@ -9,9 +9,3 @@ email: "mailto:1sahilpawar@gmail.com"
 favicon: true
 blank_title: false 
 color-scheme: light
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-remote-theme

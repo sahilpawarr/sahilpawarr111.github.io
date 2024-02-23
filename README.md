@@ -1,6 +1,6 @@
 ## Hi, I’m Sahil!
 
-I recently graduated with honors in economics from the **[Gokhale Institute of Politics and Economics](https://gipe.ac.in/)**. I am passionate about economic development, fiscal policy and venture capital. 
+I recently graduated with honors in economics from the **[Gokhale Institute of Politics and Economics](https://gipe.ac.in/)**. I am passionate about economic development,fiscal policy and venture capital. 
 
 Currently, i’m working as an Analyst - Founder's Office at **[Cambridge Wealth](https://www.cambridgewealth.in/)**, a fintech startup in the wealth management space, where I work as Chief of Staff to the CEO's office. My role largely involves working at the intersection of data, business and finance. 
 
